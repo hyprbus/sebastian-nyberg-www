@@ -73,7 +73,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1rem;
+  font-size: 1.25rem;
   font-weight: 900;
   line-height: 1.5rem;
   margin: 0 0 0 0;
@@ -89,7 +89,7 @@ section > p {
 a:link,
 a:visited {
   text-decoration: none;
-  background-color: #ccc;
+  background-color: #f7cb7a;
   color: #000000;
 }
 
